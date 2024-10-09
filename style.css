@@ -1,0 +1,31 @@
+.card{
+width:400px;
+height:600px;
+background-color:aquamarine;
+border-radius:60px;
+box-shadow:0px 0px 20px rgba(0,0,100,0.3);
+
+
+}
+.photo{
+
+height:40%;
+padding:40px;
+}
+.info{
+height:60%;
+padding:40px;
+}
+img{
+height:90%;
+position:relative;
+left:10%
+border-radius:20px
+border:2px solid
+transition:1s;
+
+}
+img:hover{
+height:120%;
+transition:1s;
+}
